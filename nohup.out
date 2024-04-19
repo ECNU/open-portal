@@ -79,3 +79,5 @@ time="2024-04-19T15:17:19+08:00" level=info msg="[TCP] 127.0.0.1:47450 --> funct
 time="2024-04-19T15:17:24+08:00" level=info msg="[TCP] 127.0.0.1:34620 --> codegeex.cn:443 match DomainSuffix(cn) using 🎯 本地直连[DIRECT]"
 time="2024-04-19T15:17:26+08:00" level=info msg="[TCP] 127.0.0.1:34630 --> codegeex.cn:443 match DomainSuffix(cn) using 🎯 本地直连[DIRECT]"
 time="2024-04-19T15:17:26+08:00" level=info msg="[TCP] 127.0.0.1:34634 --> codegeex.cn:443 match DomainSuffix(cn) using 🎯 本地直连[DIRECT]"
+time="2024-04-19T15:22:39+08:00" level=warning msg="[TCP] dial Ⓜ️ 微软服务 (match DomainKeyword/microsoft) 127.0.0.1:58550 --> nav-edge.smartscreen.microsoft.com:443 error: dial tcp4 40.74.81.198:443: i/o timeout"
+time="2024-04-19T15:22:39+08:00" level=info msg="[TCP] 127.0.0.1:55076 --> nav-edge.smartscreen.microsoft.com:443 match DomainKeyword(microsoft) using Ⓜ️ 微软服务[DIRECT]"
