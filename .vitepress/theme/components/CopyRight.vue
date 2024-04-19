@@ -2,7 +2,7 @@
   <footer>
     <div>Copyright © 2024-present</div>
     |
-    <div>Released under the MIT License</div>
+    <div>Released under the Apache License 2.0</div>
   </footer>
 </template>
 <script lang="ts" setup></script>
